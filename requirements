@@ -1,4 +1,10 @@
 streamlit
 fbprophet
+streamlit
+pandas
+requests
+beautifulsoup4
+matplotlib
+pandas-datareader
 yfinance
 plotly
